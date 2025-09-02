@@ -20,10 +20,8 @@ int main()
         int res = num1  - num2;
         cout<<"Subtraction Result: "<<res<<endl;
         break;
-        case 3:
-        int res = num1  * num2;
-        cout<<"Multiplication Result: "<<res<<endl;
-        break;
+        
+
     }
 
     return 0;
