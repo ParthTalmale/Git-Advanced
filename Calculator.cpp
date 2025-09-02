@@ -16,6 +16,10 @@ int main()
         int res = num1  + num2;
         cout<<"Addition Result: "<<res<<endl;
         break;
+        case 2:
+        int res = num1  - num2;
+        cout<<"Subtraction Result: "<<res<<endl;
+        break;
     }
 
     return 0;
